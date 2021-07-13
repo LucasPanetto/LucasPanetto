@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, seja bem vindo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1> 
-<p>Me chamo Lucas Panetto, tenho 22 anos e sou formado em <b>Sistemas de Informação</b>.</p> 
+<p>Me chamo Lucas Panetto, tenho 23 anos e sou formado em <b>Sistemas de Informação</b>.</p> 
 <p>Trabalho com desenvolvimento desde Fev/18, atualmente atuo como <b>Desenvolvedor Front End</b>, e possuo experiência como <b>Back end/FullStack</b>.</p>
 
 ## 🔧 Tecnologias/Linguagens
@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/CODE-Azure-orange)
 ![](https://img.shields.io/badge/CODE-HTML-orange)
 ![](https://img.shields.io/badge/CODE-CSS-orange)
-![](https://img.shields.io/badge/CODE-NETCore-orange)
+![](https://img.shields.io/badge/CODE-.NET-orange)
 ![](https://img.shields.io/badge/CODE-API-orange)
 ![](https://img.shields.io/badge/CODE-NodeJs-orange)
 
